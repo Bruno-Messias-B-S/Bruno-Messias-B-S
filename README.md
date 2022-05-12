@@ -18,5 +18,4 @@ Olá! Meu nome é Bruno e estudo programação :)
   
 <div> 
   <a href = "mailto:bs.bruno.messias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
- 
 </div>
