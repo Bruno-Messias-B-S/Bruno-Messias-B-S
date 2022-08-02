@@ -1,6 +1,4 @@
-Olá! Meu nome é Bruno e estudo programação :)
-
-- 🌱 Estou estudando React no momento.
+- 🌱 Currently studying ReactJS
 
 <div align="center">
   <a href="https://github.com/Bruno-Messias-B-S">
