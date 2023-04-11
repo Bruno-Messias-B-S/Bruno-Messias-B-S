@@ -18,7 +18,6 @@
   <img align="center" alt="Axios" height="38" width="40" src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4">
   <img align="center" alt="React-Router" height="30" width="40" src="https://www.svgrepo.com/show/354262/react-router.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Jest" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
