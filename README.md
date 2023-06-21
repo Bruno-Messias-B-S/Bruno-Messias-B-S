@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Bruno-Messias-B-S">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Messias-B-S&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Messias-B-S&layout=compact&theme=transparent" />
 </div>
   
 <div align="center"><br>          
